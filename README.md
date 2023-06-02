@@ -50,7 +50,7 @@ idrbt@idrbt:~$  uhd_usrp_probe
  $ sudo sysctl -w net.core.wmem_max=2500000
  $ sudo sysctl -w net.core.rmem_max=2500000
 
-``
+```
 
 2. USRP N300/N310/N320/N321 Getting Started Guide (Firmware installation in USRP)
 
