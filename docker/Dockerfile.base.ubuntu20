@@ -1,4 +1,4 @@
-# sudo docker build -t oai-gnb:n310 --build-arg NEEDED_GIT_PROXY=172.27.10.67 .
+# sudo docker build -t oai-gnb:n310 --build-arg NEEDED_GIT_PROXY=172.27.10.67:3128 -f Dockerfile.base.ubuntu20 .
 FROM ubuntu:20.04
 ARG NEEDED_GIT_PROXY
 
