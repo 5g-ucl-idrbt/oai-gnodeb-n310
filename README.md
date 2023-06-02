@@ -1,8 +1,6 @@
 # oai-gnodeb-310
-## Building and Installing the USRP Open-Source Toolchain (UHD) on Linux
-Using the following Link: [Building and Installing the USRP Open-Source Toolchain (UHD and GNU Radio) on Linux](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux)
-
-With Ubuntu 20.04 systems 
+## Building and Installing the USRP Open-Source Toolchain (UHD) on With Ubuntu 20.04
+Using the following Link: [https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux](https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux)
   1. Update and Install dependencies for UHD and GNU Radio.
 ```
 sudo apt-get update
